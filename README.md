@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, Je suis Loubal70</h1>
 <h3 align="center">Un développeur full-stack passionnés par la création web</h3>
 
-- 🔭 Je suis en train de travailler pour [Faire-Savoir](http://www.faire-savoir.com/)
+- 🔭 Je suis en train de travailler pour [Fandi-Emballage](https://fandi.fr/)
 
 - 🌱 Je suis en train d'apprendre **Laravel, Php, Wordpress**
 
-- 🤝 Je cherche de l'aide pour [PWA (MMI Network)](https://mminetwork.fr/)
+<!-- - 🤝 Je cherche de l'aide pour [PWA (MMI Network)](https://mminetwork.fr/) -->
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/Loubal70](https://github.com/Loubal70)
 
