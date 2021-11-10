@@ -3,7 +3,7 @@
 
 - 🔭 Je suis en train de travailler pour [Fandi-Emballage](https://fandi.fr/)
 
-- 🌱 Je suis en train d'apprendre **Laravel, Php, Wordpress**
+- 🌱 Je suis en train d'apprendre **Angular, Php, Wordpress**
 
 <!-- - 🤝 Je cherche de l'aide pour [PWA (MMI Network)](https://mminetwork.fr/) -->
 
