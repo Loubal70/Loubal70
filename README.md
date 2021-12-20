@@ -3,11 +3,11 @@
 
 - 🔭 Je suis en train de travailler pour [Fandi-Emballage](https://fandi.fr/)
 
-- 🌱 Je suis en train d'apprendre **Angular, Php, Wordpress**
+- 🌱 Je suis en train d'apprendre **VueJS, Php, Wordpress**
 
 <!-- - 🤝 Je cherche de l'aide pour [PWA (MMI Network)](https://mminetwork.fr/) -->
 
-- 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/Loubal70](https://github.com/Loubal70)
+- 👨‍💻 Tous mes projets publiques sont disponibles sur [https://github.com/Loubal70](https://github.com/Loubal70)
 
 - 📫 Comment me joindre **Discord : Loubal70#0666**
 
