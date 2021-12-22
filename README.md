@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Je suis Loubal70</h1>
 <h3 align="center">Un développeur full-stack passionnés par la création web</h3>
 
-- 🔭 Je suis en train de travailler pour [Fandi-Emballage](https://fandi.fr/)
+- 🔭 Je suis en train de travailler pour [Fandi-Emballage](https://fandi.fr/) & [La Fabrik'](http://fabrik-bois-metal.com/)
 
 - 🌱 Je suis en train d'apprendre **VueJS, Php, Wordpress**
 
