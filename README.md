@@ -9,7 +9,7 @@
 
 - 👨‍💻 Tous mes projets publiques sont disponibles sur [https://github.com/Loubal70](https://github.com/Loubal70)
 
-- 📫 Comment me joindre **Discord : Loubal70#0666**
+- 📫 Comment me joindre **Discord : Loubal70#9225**
 
 <h3 align="left">Me contacter:</h3>
 <p align="left">
