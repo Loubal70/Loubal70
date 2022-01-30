@@ -26,3 +26,4 @@
 <h3 align="left">Mon profil :</h3>
 
 ![Loubal70 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Loubal70&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loubal70&layout=compact)](https://github.com/Loubal70)
