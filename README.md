@@ -4,7 +4,7 @@
 
 - 🔭 Je suis en train de travailler pour [Fandi-Emballage](https://fandi.fr/) & [La Fabrik'](http://fabrik-bois-metal.com/)
 
-- 🌱 Je suis en train d'apprendre **VueJS, Php, Wordpress**
+- 🌱 Je suis en train d'apprendre **Sage, Php, Wordpress**
 
 <!-- - 🤝 Je cherche de l'aide pour [PWA (MMI Network)](https://mminetwork.fr/) -->
 
