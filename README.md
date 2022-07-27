@@ -2,9 +2,8 @@
 <h3 align="center">Un développeur full-stack passionnés par la création web</h3>
 <br />
 
-- 🔭 Je suis en train de travailler pour [Fandi-Emballage](https://fandi.fr/) & [La Fabrik'](http://fabrik-bois-metal.com/)
-
-- 🌱 Je suis en train d'apprendre **Sage, Php, Wordpress**
+- 🔭 Je suis en train de travailler pour [Amphibee](https://amphibee.fr/)
+- 🌱 Je suis en train d'apprendre **Themosis, Tailwind CSS & AlpineJS**
 
 <!-- - 🤝 Je cherche de l'aide pour [PWA (MMI Network)](https://mminetwork.fr/) -->
 
