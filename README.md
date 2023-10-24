@@ -2,14 +2,12 @@
 <h3 align="center">Un développeur full-stack passionnés par la création web</h3>
 <br />
 
-- 🔭 Je suis en train de travailler pour [Amphibee](https://amphibee.fr/)
-- 🌱 Je suis en train d'apprendre **Themosis, Tailwind CSS & AlpineJS**
-
-<!-- - 🤝 Je cherche de l'aide pour [PWA (MMI Network)](https://mminetwork.fr/) -->
+- 🔭 Je suis en train de travailler chez les copains [Amphibee](https://amphibee.fr/)
+- 🌱 Je suis en train d'apprendre **React, Docker, Themosis**
 
 - 👨‍💻 Tous mes projets publiques sont disponibles sur [https://github.com/Loubal70](https://github.com/Loubal70)
 
-- 📫 Comment me joindre **Discord : Loubal70#9225**
+- 📫 Comment me joindre **Discord : Loubal70 (#9225)**
 
 <h3 align="left">Me contacter:</h3>
 <p align="left">
